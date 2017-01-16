@@ -5,3 +5,6 @@
 * Exploratory Data Analysis
 * Another item
 
+Git is easy.  Git is fun.
+Thanks Linus!
+
